@@ -1,0 +1,21 @@
+@font-face {
+  font-family: Benne;
+  src: url(D:\JavaScript\Medium-site\medium-app\src\Benne\Benne-Regular.ttf);
+}
+.container {
+  background-color: #4479ff;
+}
+.container,
+.profile {
+  margin-top: 30px;
+  border-radius: 50px;
+  height: 300px;
+  width: 1000px;
+  text-align: center;
+  padding-top: 10%;
+  font-family: Benne;
+  font-size: 200px;
+}
+.profile {
+  background-color: #cc4040;
+}
